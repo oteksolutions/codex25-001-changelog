@@ -3,7 +3,7 @@
 <p><strong>PROJECT OVERVIEW</strong></p>
 This project is a simple and responsive Changelog Component built using HTML and CSS. It provides a structured way to display updates, feature releases, and bug fixes for a website or application.
 <br><br>
-<p><strong>Learning Objective:</strong> The goal of this project is to enhance my HTML and CSS skills by practicing semantic structuring, responsive design, and clean code organization. This project helps reinforce my CSS styling techniques while maintaining accessibility and readability.</p>
+<p><strong>Learning Objective:</strong> The goal of this project is to strengthen my HTML and CSS skills by focusing on semantic structuring, responsive design, and clean code organization. It also helps me refine my CSS styling techniques while ensuring accessibility and readability.</p>
 <br>
 <p><strong>FEATURES</strong></p>
 <ul>
