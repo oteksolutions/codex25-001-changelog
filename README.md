@@ -23,3 +23,7 @@ This project is a simple and responsive Changelog Component built using HTML and
   <li>Implement dark mode for better user experience</li>
   <li>Integrate with a CMS or database for dynamic updates</li>
 </ul>
+<br>
+<footer>
+    <p>&copy; 2025 Ken Ekweme | <a href="https://www.oteksolutions.net" target="_blank">OTek Solutions</a></p>
+</footer>
