@@ -10,7 +10,7 @@ This project is a simple and responsive Changelog Component built using HTML and
   <li>Clean and minimal UI for easy readability</li>
   <li>Responsive design to ensure accessibility on all devices</li>
   <li>Organized changelog entries with categories like Features, Improvements, and Fixes</li>
-  <li>Pure HTML & CSS with no JavaScript or frameworks</li>
+  <li>Pure HTML & CSS</li>
 </ul>
 <p><strong>TECHNOLOGIES USED</strong></p>
 <ul>
