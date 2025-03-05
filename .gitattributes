@@ -1,6 +1,1 @@
 *.css linguist-detectable=true
-*.css linguist-vendored=false
-
-git add .gitattributes
-git commit -m "Force CSS detection in GitHub Linguist"
-git push origin main
